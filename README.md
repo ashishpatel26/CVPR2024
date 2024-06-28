@@ -155,7 +155,7 @@
 
 | Index | Paper Title | Paper Link | Code | Official Repo |
 | ----- | ----------- | ---------- | ---- | ------------- |
-| 7     | N/A         | N/A        | N/A  | N/A           |
+| 7     | DiffuseMix: Label-Preserving Data Augmentation with Diffusion Models         | [Paper](https://arxiv.org/pdf/2405.14881)        | [Code](https://github.com/khawar-islam/diffuseMix)  | N/A           |
 
 #### Object Detection
 
